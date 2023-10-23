@@ -1,0 +1,30 @@
+.first-section {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
+
+.second-section {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
+
+.third-section {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
+
+.school, .city {
+    text-align: center;
+}
+
+.fourth-section {
+    text-align: center;
+}
+
+.fifth-section {
+    display: flex;
+    flex-direction: row;
+}
